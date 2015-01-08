@@ -17,4 +17,8 @@ public class Cao extends Activity {
 		String zz = aa + ss;
 		return zz;
 	}
+	
+	public static void show(){
+		
+	}
 }
